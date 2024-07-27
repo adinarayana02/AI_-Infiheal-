@@ -16,7 +16,7 @@ This project is a Mental Health Support Chatbot built using [Streamlit](https://
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/adinarayana02/AI_ Infiheal.git
+   git clone https://github.com/adinarayana02/AI_-Infiheal.git
    cd Mental-Health-Support-Chatbot
    ```
 
